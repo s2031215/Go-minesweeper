@@ -52,5 +52,4 @@ s2031215
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [gocui](https://github.com/jroimartin/gocui)
