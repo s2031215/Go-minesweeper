@@ -32,7 +32,10 @@ git clone https://github.com/s2031215/Gominesweeper.git
 ```sh
 cd Gominesweeper
 go run . # start game
+#or
 go build . # build executable file
+./Gominesweeper #linux
+Gominesweeper.exe #Windows
 ```
 
 ### install as modules 
