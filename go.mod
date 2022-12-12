@@ -1,4 +1,4 @@
-module s2031215/Gominesweeper
+module github.com/s2031215/Gominesweeper
 
 go 1.16
 
