@@ -26,12 +26,26 @@ libraries:
 ```sh
 git clone https://github.com/s2031215/Gominesweeper.git
 ```
-### Executing program
+
+### Executing program 
 
 ```sh
 cd Gominesweeper
 go run . # start game
+#or
 go build . # build executable file
+./Gominesweeper #linux
+Gominesweeper.exe #Windows
+```
+
+### install as modules 
+```sh
+#set go path
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOPATH/bin
+go install github.com/s2031215/Gominesweeper@lastest
+#run program
+Gominesweeper
 ```
 
 ## Authors
