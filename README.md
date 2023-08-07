@@ -1,5 +1,5 @@
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/s2031215/Go-minesweeper?&style=flat&logo=appveyor)
-![visitors](https://visitor-badge.deta.dev/badge?page_id=s2031215.Go-minesweeper)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=s2031215.Go-minesweeper)
 # Gominesweeper - Go Console minesweeper game
 
 A simple minesweeper game build with Golang
